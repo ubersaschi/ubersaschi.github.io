@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://kosascha.github.io/sitemap.xml
